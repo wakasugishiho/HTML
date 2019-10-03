@@ -62,3 +62,18 @@ main{
 	margin: 15px 0 5px;
 }
 
+@media screen and (max-width:425px) {
+	main{
+		width:90%;
+		margin:50px 4%;
+	}
+	.box{
+		width:100%;
+		margin-right: 0;
+		float: none;
+		margin-bottom: 20px;
+	}
+	.box:last-child{
+		margin-bottom: 0;
+	}
+}
