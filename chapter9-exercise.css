@@ -62,7 +62,7 @@ main{
 	margin: 15px 0 5px;
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:768px) {
 	main{
 		width:90%;
 		margin:50px 4%;
